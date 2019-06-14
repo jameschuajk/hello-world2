@@ -3,7 +3,7 @@ class A6
 	int i ;
 	A6()
 	{
-		this.i = 7;
+		this.i = 6;
 		}
 	
 	}
