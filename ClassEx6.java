@@ -15,6 +15,6 @@ class ClassEx6
 		System.out.println("*** Simple class: quizes ***");
 		A6 ob1;
 		ob1 = new A6();
-		System.out.println(ob1.i);
+		System.out.println(ob1);
 		}
 	}
